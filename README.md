@@ -1,2 +1,1 @@
-# wordle
-自创wordlegame
+[page url](https://little-cindy.github.io/wordle/)
